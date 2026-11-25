@@ -70,4 +70,7 @@ My research interests lie in the fields of bio-micro-electro-mechanical systems 
 
 Available upon request.
 
+## Full Curriculum Vitae
 
+A formally formatted PDF version of my academic CV
+is available upon request.
