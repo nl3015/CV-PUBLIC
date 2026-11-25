@@ -11,9 +11,9 @@ My research interests lie in the fields of bio-micro-electro-mechanical systems 
 
 ### PhD in Mechanical Engineering | 2024 – Present
 
-- *The City College of the City University of New York* — Matriculated student
 - *Columbia University in the City of New York* — Non-matriculated student (part-time), since 2026
 - *Rutgers New Jersey Medical School* — Visiting research student, since 2025
+- *The City College of the City University of New York* — Matriculated student
 
 ### MSc in Precision Engineering | 2021 – 2024
 
