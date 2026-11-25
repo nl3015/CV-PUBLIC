@@ -23,9 +23,9 @@ My research interests lie in the fields of bio-micro-electro-mechanical systems 
 
 ## Publications
 
-**Lai, N. V. B.**, Ali, N. K., Yegneshwaran, V., Zhou, D., Fraidenraich, D., Luo, J., Li, F., Huang, X., Nicolaou, A., & Voiculescu, I. (2026). Stem cell cardiomyocytes maturity evaluation with electric cell-substrate impedance sensing. *Journal of Micro- and Nano-Manufacturing, 14*(4), 041001. https://doi.org/10.1115/1.4072784
+**Lai, N. V. B.**, Ali, N. K., Yegneshwaran, V., Zhou, D., Fraidenraich, D., Luo, J., Li, F., Huang, X., Nicolaou, A. & Voiculescu, I. Stem cell cardiomyocytes maturity evaluation with electric cell-substrate impedance sensing. *Journal of Micro- and Nano-Manufacturing* **14**, 041001 (2026). [DOI](https://doi.org/10.1115/1.4072784)
 
-**Nguyen, V.-B. L.**, Tran, N. D. K., Chwastek, S., & Wang, D.-A. (2025). Energy-based kinetostatic modeling of a rotational tristable mechanism using the chained beam constraint model. *Mechanism and Machine Theory, 213*, 106081. https://doi.org/10.1016/j.mechmachtheory.2025.106081
+**Nguyen, V.-B. L.**, Tran, N. D. K., Chwastek, S. & Wang, D.-A. Energy-based kinetostatic modeling of a rotational tristable mechanism using the chained beam constraint model. *Mechanism and Machine Theory* **213**, 106081 (2025). [DOI](https://doi.org/10.1016/j.mechmachtheory.2025.106081)
 
 ## Grants and Fellowships
 
