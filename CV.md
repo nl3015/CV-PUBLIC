@@ -35,6 +35,12 @@ My research interests lie in the fields of bio-micro-electro-mechanical systems 
 - National Chung Hsing University (NCHU), 2021–2024.
 - Industrial University of Ho Chi Minh City (IUH), 2017 and 2020.
 
+<!-- ## Other affiliations
+
+### IUEDC Student (SEAS) | Since 2026
+
+*Columbia University in the City of New York* -->
+
 ## Research Experience
 
 ### Graduate Research Assistant | 2024 – Present
@@ -49,7 +55,7 @@ My research interests lie in the fields of bio-micro-electro-mechanical systems 
 *National Chung Hsing University*
 
 - Designed compliant gears for an ankle exoskeleton in collaboration with Dr. Inigo Sanz-Pena, Assistant Professor at The City College of New York.
-- Proposed, designed, and optimized a rotary tristable compliant mechanism for miniaturized and monolithic applications using ABAQUS. Fabricated the prototype using CNC milling and experimentally validated the proposed design.
+- Proposed, designed, and optimized a rotary tristable compliant mechanism for miniaturized and monolithic applications under the NSTC Grant. Fabricated the prototype using CNC milling and experimentally validated the proposed design.
   - **Achievement:** Published a research article in *Mechanism and Machine Theory* in 2025.
 - Designed MEMS devices, coordinated fabrication through the Taiwan Semiconductor Research Institute (TSRI), and conducted experimental verification.
   - **Achievement:** Developed a three-phase micromotor and a micro-hotplate for gas sensing. Presented research on the micro-hotplate at the 3rd ISPE 2022 Conference.
