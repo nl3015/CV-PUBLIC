@@ -27,9 +27,7 @@ My research interests lie in the field of bio-micro-electro-mechanical systems (
 
 # Publications
 
-<div class="hangparas">
-
-0.5in1
+<div class="hangparas">{0.5in}{1}
 
 **Lai, N. V. B.**, Ali, N. K., Yegneshwaran, V., Zhou, D., Fraidenraich, D., Luo, J., Li, F., Huang, X., Nicolaou, A., & Voiculescu, I. (2026). Stem cell cardiomyocytes maturity evaluation with electric cell-substrate impedance sensing. *Journal of Micro- and Nano-Manufacturing, 14*(4), 041001. <https://doi.org/10.1115/1.4072784>
 
@@ -94,4 +92,4 @@ My research interests lie in the field of bio-micro-electro-mechanical systems (
 
 - **Tran Ngoc Dang Khoa, PhD** \| Lecturer at Industrial University of Ho Chi Minh City.
 
-  1.  Email: <tranngocdangkhoa@iuh.edu.vn> \| Phone: +84 908-844-944
+  -  Email: <tranngocdangkhoa@iuh.edu.vn> \| Phone: +84 908-844-944
