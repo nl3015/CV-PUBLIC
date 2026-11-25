@@ -1,11 +1,11 @@
 
 # NGUYEN VU BINH LAI
 
-New York, NY | [ORCID](https://orcid.org/0000-0001-5590-083X) | [GitHub](https://github.com/nl3015) | [LinkedIn](https://www.linkedin.com/in/nl3015/)
+[ORCID](https://orcid.org/0000-0001-5590-083X) | [GitHub](https://github.com/nl3015)
 
 ## About
 
-My research interests lie in the fields of bio-micro-electro-mechanical systems (BioMEMS), MEMS, lab-on-a-chip technologies, and nanotechnology. I am currently working on a collaborative research project titled "Stem Cell Maturity Evaluation and Promotion with An Intelligent Lab-on-Chip Framework" under NSF Grant No. 2327147.
+My research interests lie in the fields of bio-micro-electro-mechanical systems (BioMEMS), MEMS, lab-on-a-chip technologies, and nanotechnology.
 
 ## Education
 
@@ -43,9 +43,8 @@ My research interests lie in the fields of bio-micro-electro-mechanical systems 
 
 *The Grove School of Engineering, The City College of New York*
 
-- Develop a stimulatory lab-on-a-chip device and conduct electric cell-substrate impedance sensing (ECIS) measurements of iPSC-CMs.
-- Analyze experimental data to evaluate cardiomyocyte maturation and optimize stimulation conditions using reinforcement learning algorithms.
-- Conduct research in the Micro/Nano Fabrication Laboratory on the collaborative research project "Stem Cell Maturity Evaluation and Promotion with An Intelligent Lab-on-Chip Framework" (NSF Grant No. 2327147), under the supervision of Professor Ioana R. Voiculescu.
+- Currently working on a collaborative research project titled "Stem Cell Maturity Evaluation and Promotion with An Intelligent Lab-on-Chip Framework" under NSF Grant No. 2327147.
+- Join laboratory of Micro/Nano Fabrication and conduct research under the supervision of Professor Ioana R. Voiculescu.
 
 ### Air Bag Development Expert | 2024
 
