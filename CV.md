@@ -11,7 +11,7 @@ My research interests lie in the fields of bio-micro-electro-mechanical systems 
 
 ### PhD in Mechanical Engineering | 2024 – Present
 
-*The City College of the City University of New York*
+*The City College of New York*
 
 ### MSc in Precision Engineering | 2021 – 2024
 
