@@ -1,6 +1,6 @@
 <div class="center">
 
-**NGUYEN VU BINH LAI**\
+**NGUYEN VU BINH LAI**
 
 |  |  |  |  |
 |:--:|:--:|:--:|:--:|
