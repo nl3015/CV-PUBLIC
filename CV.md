@@ -35,7 +35,7 @@ My research interests lie in the fields of bio-micro-electro-mechanical systems 
 - National Chung Hsing University (NCHU), 2021–2024.
 - Industrial University of Ho Chi Minh City (IUH), 2017 and 2020.
 
-## Work Experience
+## Research Experience
 
 ### Graduate Research Assistant | 2024 – Present
 
@@ -43,13 +43,6 @@ My research interests lie in the fields of bio-micro-electro-mechanical systems 
 
 - Currently working on a collaborative research project titled "Stem Cell Maturity Evaluation and Promotion with An Intelligent Lab-on-Chip Framework" under NSF Grant No. 2327147.
 - Join laboratory of Micro/Nano Fabrication and conduct research under the supervision of Professor Ioana R. Voiculescu.
-
-### Air Bag Development Expert | 2024
-
-*VinFast Auto Ltd.*
-
-- Participated in developing the airbag module for the VinFast VF5 model in collaboration with Jinzhou Jinheng Automotive Safety System Co., Ltd.
-- Received training in vehicle development.
 
 ### Graduate Research Assistant | 2021 – 2024
 
@@ -65,6 +58,15 @@ My research interests lie in the fields of bio-micro-electro-mechanical systems 
   - Prepared teaching materials, designed exercises, led discussions, and graded assignments.
   - Guided students in using SOLIDWORKS, ABAQUS, and MATLAB.
 - Joined the Electromechanical Energy Laboratory in December 2021 and conducted research under the supervision of Distinguished Professor Dung-An Wang, focusing on MEMS for actuation and sensing.
+
+## Work Experience
+
+### Air Bag Development Expert | 2024
+
+*VinFast Auto Ltd.*
+
+- Participated in developing the airbag module for the VinFast VF5 model in collaboration with Jinzhou Jinheng Automotive Safety System Co., Ltd.
+- Received training in vehicle development.
 
 ## References
 
